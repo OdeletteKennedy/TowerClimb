@@ -1,0 +1,13 @@
+.next
+node_modules
+.env*.local
+.vercel
+out
+dist
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+mobile.png
+desktop.png
