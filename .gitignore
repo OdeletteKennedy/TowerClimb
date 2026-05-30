@@ -11,3 +11,5 @@ pnpm-debug.log*
 *.log
 mobile.png
 desktop.png
+
+.vercel
