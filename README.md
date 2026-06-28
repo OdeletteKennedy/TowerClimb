@@ -137,3 +137,11 @@ Contributions should keep the project clear, maintainable, and easy to understan
 Before submitting changes, review the repository contents and follow any existing style or structure.
 
 If contribution rules are added later, place them in this README or in a dedicated contributing guide.
+
+## License
+
+No license information is provided in the original README.
+
+If a license file exists in the repository, refer to that file for licensing details.
+
+If no license is present, add one before distributing or reusing the project publicly.
