@@ -19,3 +19,11 @@ Clone the project from GitHub:
 ```bash
 git clone https://github.com/OdeletteKennedy/TowerClimb.git
 ```
+
+Then move into the project directory:
+
+```bash
+cd TowerClimb
+```
+
+## Features
