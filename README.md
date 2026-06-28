@@ -49,3 +49,10 @@ Common files to look for include:
 - Build or dependency files
 - Documentation
 - Asset folders
+- Test files
+
+The exact structure depends on the current state of the repository.
+
+## Setup
+
+1. Clone the repository.
