@@ -116,3 +116,10 @@ git commit -m "Describe the change"
 ## Notes
 
 This README intentionally avoids adding unsupported technical details.
+
+If the repository includes a specific framework, language, build process, or runtime, update this document with exact setup and usage commands.
+
+Recommended future additions include:
+
+- A short project description
+- Installation requirements
