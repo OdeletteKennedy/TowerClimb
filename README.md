@@ -64,3 +64,11 @@ The exact structure depends on the current state of the repository.
 2. Enter the project folder.
 
    ```bash
+   cd TowerClimb
+   ```
+
+3. Review the files in the repository.
+
+   ```bash
+   ls
+   ```
