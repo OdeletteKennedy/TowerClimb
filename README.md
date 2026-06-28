@@ -108,3 +108,11 @@ git checkout -b feature/example-change
 After making changes:
 
 ```bash
+git status
+git add .
+git commit -m "Describe the change"
+```
+
+## Notes
+
+This README intentionally avoids adding unsupported technical details.
