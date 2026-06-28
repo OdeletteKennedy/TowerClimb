@@ -35,3 +35,9 @@ Depending on the contents of the repository, the project may include source file
 Review the project files after cloning to understand the current structure and available functionality.
 
 ## Project Structure
+
+After cloning the repository, inspect the top-level files and folders:
+
+```bash
+ls
+```
