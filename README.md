@@ -100,3 +100,11 @@ When making changes:
 5. Test your changes using the tools provided in the repository.
 
 Example branch workflow:
+
+```bash
+git checkout -b feature/example-change
+```
+
+After making changes:
+
+```bash
