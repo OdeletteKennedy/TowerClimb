@@ -86,3 +86,11 @@ To use or run the project, first identify the technology stack from the files in
 Look for documentation, scripts, project configuration, or entry-point files.
 
 If scripts are provided, use the commands defined by the project.
+
+If no run instructions are available, inspect the source files to determine the correct entry point.
+
+## Development
+
+When making changes:
+
+1. Create a new branch for your work.
