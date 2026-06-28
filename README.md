@@ -78,3 +78,11 @@ The exact structure depends on the current state of the repository.
    Examples of dependency files may include package manifests, project files, or environment configuration files.
 
 5. Follow any additional instructions found in project-specific files.
+
+## Usage
+
+To use or run the project, first identify the technology stack from the files in the repository.
+
+Look for documentation, scripts, project configuration, or entry-point files.
+
+If scripts are provided, use the commands defined by the project.
