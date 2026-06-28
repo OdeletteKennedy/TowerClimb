@@ -94,3 +94,9 @@ If no run instructions are available, inspect the source files to determine the 
 When making changes:
 
 1. Create a new branch for your work.
+2. Make focused, readable commits.
+3. Keep changes aligned with the existing project structure.
+4. Update documentation when behavior or setup steps change.
+5. Test your changes using the tools provided in the repository.
+
+Example branch workflow:
