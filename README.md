@@ -129,3 +129,11 @@ Recommended future additions include:
 - Contribution guidelines
 - License information
 - Screenshots or examples, if applicable
+
+## Contributing
+
+Contributions should keep the project clear, maintainable, and easy to understand.
+
+Before submitting changes, review the repository contents and follow any existing style or structure.
+
+If contribution rules are added later, place them in this README or in a dedicated contributing guide.
