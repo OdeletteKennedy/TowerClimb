@@ -41,3 +41,11 @@ After cloning the repository, inspect the top-level files and folders:
 ```bash
 ls
 ```
+
+Common files to look for include:
+
+- Source code directories
+- Configuration files
+- Build or dependency files
+- Documentation
+- Asset folders
