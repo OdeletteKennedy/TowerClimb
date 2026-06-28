@@ -72,3 +72,9 @@ The exact structure depends on the current state of the repository.
    ```bash
    ls
    ```
+
+4. Install any required dependencies if the repository includes a dependency file.
+
+   Examples of dependency files may include package manifests, project files, or environment configuration files.
+
+5. Follow any additional instructions found in project-specific files.
