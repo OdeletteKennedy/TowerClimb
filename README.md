@@ -27,3 +27,11 @@ cd TowerClimb
 ```
 
 ## Features
+
+The repository currently identifies the project as TowerClimb.
+
+Depending on the contents of the repository, the project may include source files, configuration files, assets, documentation, or other implementation details.
+
+Review the project files after cloning to understand the current structure and available functionality.
+
+## Project Structure
