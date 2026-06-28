@@ -123,3 +123,9 @@ Recommended future additions include:
 
 - A short project description
 - Installation requirements
+- Build instructions
+- Run commands
+- Testing instructions
+- Contribution guidelines
+- License information
+- Screenshots or examples, if applicable
